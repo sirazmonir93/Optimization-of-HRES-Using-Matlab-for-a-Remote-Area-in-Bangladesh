@@ -31,7 +31,7 @@ The optimization aims to find the optimal configuration that minimizes total sys
 - Considers system efficiency and conversion rates
 - Models continuous fuel consumption
 
-[EEE 4800_Poster Presentation.pdf](https://github.com/user-attachments/files/23166377/EEE.4800_Poster.Presentation.pdf)
+![EEE 4800_Poster Presentation](https://github.com/user-attachments/assets/32def213-cd0d-412c-ae69-3f8f234300cd)
 
 #### Battery Energy Storage
 - Tracks state of charge (SOC) dynamics
