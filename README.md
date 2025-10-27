@@ -115,6 +115,9 @@ The algorithm outputs:
 - Total system cost and component breakdown
 - Reliability metrics and constraint satisfaction
 
+ <img width="1127" height="858" alt="Reliability Curve" src="https://github.com/user-attachments/assets/d7b98b71-c34b-4ff6-bbda-eb3d0753ed02" />
+ 
+
 ## Citation
 
 If you use this code in your research, please cite the original HO algorithm:
